@@ -1,0 +1,22 @@
+{
+    "name": "rekurzia/yii2-redirect",
+    "type": "library",
+    "description": "Simple Application class which tries to redirect to one of specified routes before handling request.",
+    "keywords": ["Yii2", "redirect", "application"],
+    "homepage": "https://github.com/rekurzia/yii2-redirect",
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Vladimír Kriška",
+            "email": "ujovlado@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
